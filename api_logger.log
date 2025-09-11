@@ -6,3 +6,5 @@
 2025-09-10 21:49:47,964 - api_logger - INFO - Exibindo retorno dos insights do LLM Google gemini.
 2025-09-11 17:38:41,921 - api_logger - INFO - Requisição bem-sucedida.
 2025-09-11 17:38:51,184 - api_logger - INFO - Arquivo .json salvo na camada /bronze particionado por timestamp 20250911.
+2025-09-11 17:39:17,391 - api_logger - INFO - Arquivo .parquet salvo na camada /silver particionado por timestamp 20250911.
+2025-09-11 17:39:27,316 - api_logger - INFO - Criação da lista de moedas sul americanas: ['USD', 'ARS', 'BOB', 'BRL', 'CLP', 'COP', 'PEN', 'UYU', 'VES', 'GYD', 'PYG', 'SRD'].
