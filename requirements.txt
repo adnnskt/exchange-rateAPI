@@ -1,3 +1,7 @@
 requests
 pandas
 google-generativeai
+os
+plotly
+pyarrow
+fastparquet
