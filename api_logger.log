@@ -1,0 +1,6 @@
+2025-09-10 21:39:33,400 - api_logger - INFO - Requisição bem-sucedida.
+2025-09-10 21:45:04,551 - api_logger - INFO - Arquivo .json salvo na camada bronze particionado por timestamp 20250910.
+2025-09-10 21:45:43,710 - api_logger - INFO - Arquivo .parquet salvo na camada /silver particionado por timestamp 20250910.
+2025-09-10 21:47:12,104 - api_logger - INFO - Criação da lista de moedas sul americanas: ['USD', 'ARS', 'BOB', 'BRL', 'CLP', 'COP', 'PEN', 'UYU', 'VES', 'GYD', 'PYG', 'SRD'].
+2025-09-10 21:48:02,507 - api_logger - INFO - Exibindo dataframe com os resultados de cada partição da camada /gold.
+2025-09-10 21:49:47,964 - api_logger - INFO - Exibindo retorno dos insights do LLM Google gemini.
